@@ -78,6 +78,28 @@ app.get("/recipe", (req, res) => {
   res.json(randomRecipe);
 });
 
+
+app.get("/recipe_count", (req, res) => {
+    const userId = req.query.userId;
+  
+    // If we have a userId, count only recipes they are allowed to access
+    if (userId) {
+      const allowedRecipes = recipes.filter(recipe => {
+        const blacklist = Array.isArray(recipe.blacklist) ? recipe.blacklist : [];
+        return !blacklist.includes(userId);
+      });
+  
+      return res.json({
+        total: allowedRecipes.length
+      });
+    }
+  
+    // Otherwise return total number of recipes
+    res.json({
+      total: recipes.length
+    });
+  });
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);

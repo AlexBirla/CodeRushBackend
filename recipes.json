@@ -1,6 +1,6 @@
 [
     {
-      "codename": "Midnight Omlette",
+      "codename": "OMLETA_DE_MIEZUL_NOPTII",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Aromă puternică ce poate trăda poziția agentului.",
       "cookingTimeMinutes": 7,
@@ -17,10 +17,11 @@
         "Activează încărcătura: bate ouăle cu lapte, sare și piper, apoi toarnă în tigaie.",
         "Protocolul brânză: presară brânza și pliază omleta cu precizie.",
         "Evacuare fără urmă: glisează omleta în farfurie și retrage-te imediat."
-      ]
+      ],
+      "blacklist": []
     },
     {
-      "codename": "Frozen_Smoothie",
+      "codename": "SMOOTHIE_INGHETAT",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Activarea blenderului poate alerta forțele ostile din proximitate.",
       "cookingTimeMinutes": 4,
@@ -36,10 +37,11 @@
         "Achiziția activelor: introdu toate ingredientele în blender.",
         "Neutralizare la viteză mare: mixează până nu mai rămân fragmente identificabile.",
         "Livrarea încărcăturii: toarnă în pahar și consumă în deplină discreție."
-      ]
+      ],
+      "blacklist": []
     },
     {
-      "codename": "Shadow_Toast",
+      "codename": "TOAST_UMBRA",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Mirosul de toast poate compromite operațiunea dacă ventilația este slabă.",
       "cookingTimeMinutes": 3,
@@ -54,10 +56,11 @@
         "Manipulare termică discretă: prăjește pâinea în tăcere.",
         "Criptare în două straturi: întinde untul de arahide, apoi gemul.",
         "Asamblare sub acoperire: adaugă banană dacă este necesar și consumă fără martori."
-      ]
+      ],
+      "blacklist": []
     },
     {
-      "codename": "Pasta_Firewall",
+      "codename": "ZIDUL_DE_PASTA",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Emanarea de usturoi poate atrage atenția inamică sau diplomatică.",
       "cookingTimeMinutes": 18,
@@ -75,10 +78,11 @@
         "Operațiunea Usturoi: călește usturoiul în ulei de măsline.",
         "Construcția zidului: unește pastele cu uleiul aromat și fulgii de chili.",
         "Camuflaj final: pudrează cu parmezan și servește doar aliaților de încredere."
-      ]
+      ],
+      "blacklist": []
     },
     {
-      "codename": "Stealth_Mugcake",
+      "codename": "PRAJITURA_IN_CANA_STEALTH",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Supraîncălzirea poate provoca detonarea încărcăturii din cană.",
       "cookingTimeMinutes": 6,
@@ -97,7 +101,8 @@
         "Inițiere microonde: încălzește până când compoziția se ridică.",
         "Verificare termică: asigură-te că interiorul rămâne moale și confidențial.",
         "Extracție rapidă: consumă înainte ca senzorii inamici să capteze mirosul."
-      ]
+      ],
+      "blacklist": []
     },
     {
       "codename": "RISOTTO_NOIR",
@@ -132,7 +137,8 @@
         "Încorporează parmezanul pentru blindaj final.",
         "Condimentează strategic cu sare și piper.",
         "Lasă preparatul să se odihnească 1 minut și servește imediat."
-      ]
+      ],
+      "blacklist": []
     }
   ]
   

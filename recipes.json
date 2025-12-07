@@ -1,132 +1,137 @@
 [
     {
-      "id": "XR-117",
-      "title": "Operation Midnight Omelette",
-      "description": "A covert breakfast infiltration mission using a fluffy, cheese-filled payload.",
-      "ingredients": [
-        "3 eggs",
-        "2 tbsp milk",
-        "Salt & pepper",
-        "Handful of shredded cheese",
-        "1 tbsp butter"
+      "codename": "Midnight Omlette",
+      "classification": "DOAR PENTRU AGENȚI SECREȚI",
+      "risk": "Aromă puternică ce poate trăda poziția agentului.",
+      "cookingTimeMinutes": 7,
+      "description": "O misiune de infiltrare culinară în zorii zilei, folosind un amestec pufos și discret de ouă și brânză.",
+      "equipment": [
+        "3 ouă",
+        "2 linguri lapte",
+        "Sare și piper",
+        "O mână de brânză rasă",
+        "1 lingură unt"
       ],
-      "time_to_destruct": "7 minutes",
-      "rankings": {
-        "S": "≤ 6 min",
-        "A": "≤ 8 min",
-        "B": "≤ 10 min",
-        "C": "≤ 12 min",
-        "D": "> 12 min"
-      },
-      "mission_steps": [
-        "Infiltrate the Pan Zone: Melt butter quietly over medium heat.",
-        "Deploy Egg Payload: Whisk eggs, milk, salt, and pepper, then pour into pan.",
-        "Cheese Extraction Protocol: Add cheese and fold for secrecy.",
-        "Evacuation Maneuver: Slide omelette onto plate and vanish."
+      "steps": [
+        "Infiltrează zona tigăii: topește untul în liniște la foc mediu.",
+        "Activează încărcătura: bate ouăle cu lapte, sare și piper, apoi toarnă în tigaie.",
+        "Protocolul brânză: presară brânza și pliază omleta cu precizie.",
+        "Evacuare fără urmă: glisează omleta în farfurie și retrage-te imediat."
       ]
     },
     {
-      "id": "KV-904",
-      "title": "Operation Frostbite Smoothie",
-      "description": "A frozen energy asset blended for agents requiring rapid nutritional extraction.",
-      "ingredients": [
-        "1 cup frozen berries",
-        "1 banana",
-        "1 cup yogurt or milk",
-        "1 tbsp honey",
-        "Chia seeds (optional)"
+      "codename": "Frozen_Smoothie",
+      "classification": "DOAR PENTRU AGENȚI SECREȚI",
+      "risk": "Activarea blenderului poate alerta forțele ostile din proximitate.",
+      "cookingTimeMinutes": 4,
+      "description": "O băutură tactică ultrarapidă pentru agenți aflați în deplasare, special concepută pentru reîncărcare instantă.",
+      "equipment": [
+        "1 cană fructe de pădure congelate",
+        "1 banană",
+        "1 cană iaurt sau lapte",
+        "1 lingură miere",
+        "Semințe de chia (opțional)"
       ],
-      "time_to_destruct": "4 minutes",
-      "rankings": {
-        "S": "≤ 3 min",
-        "A": "≤ 5 min",
-        "B": "≤ 7 min",
-        "C": "≤ 10 min",
-        "D": "> 10 min"
-      },
-      "mission_steps": [
-        "Asset Acquisition: Load all ingredients into the blender.",
-        "High-Speed Neutralization: Blend until no identifiable fragments remain.",
-        "Payload Deployment: Pour into container and consume swiftly."
+      "steps": [
+        "Achiziția activelor: introdu toate ingredientele în blender.",
+        "Neutralizare la viteză mare: mixează până nu mai rămân fragmente identificabile.",
+        "Livrarea încărcăturii: toarnă în pahar și consumă în deplină discreție."
       ]
     },
     {
-      "id": "AL-552",
-      "title": "Operation Shadow Toast",
-      "description": "A rapid, silent ration ideal for agents operating under deep cover.",
-      "ingredients": [
-        "2 slices of bread",
-        "2 tbsp peanut butter",
-        "1 tbsp jam",
-        "Banana slices (optional)"
+      "codename": "Shadow_Toast",
+      "classification": "DOAR PENTRU AGENȚI SECREȚI",
+      "risk": "Mirosul de toast poate compromite operațiunea dacă ventilația este slabă.",
+      "cookingTimeMinutes": 3,
+      "description": "Rația rapidă și silențioasă a agenților sub acoperire profundă.",
+      "equipment": [
+        "2 felii pâine",
+        "2 linguri unt de arahide",
+        "1 lingură gem",
+        "Felii de banană (opțional)"
       ],
-      "time_to_destruct": "3 minutes",
-      "rankings": {
-        "S": "≤ 2 min",
-        "A": "≤ 4 min",
-        "B": "≤ 6 min",
-        "C": "≤ 8 min",
-        "D": "> 8 min"
-      },
-      "mission_steps": [
-        "Heat Signature Manipulation: Toast bread with minimal noise.",
-        "Dual-Layer Encryption: Spread peanut butter, then jam.",
-        "Covert Assembly: Add bananas if needed and eat unnoticed."
+      "steps": [
+        "Manipulare termică discretă: prăjește pâinea în tăcere.",
+        "Criptare în două straturi: întinde untul de arahide, apoi gemul.",
+        "Asamblare sub acoperire: adaugă banană dacă este necesar și consumă fără martori."
       ]
     },
     {
-      "id": "ZQ-788",
-      "title": "Operation Pasta Firewall",
-      "description": "Construct a defensive carb barrier for extended operational endurance.",
-      "ingredients": [
-        "200g pasta",
-        "2 cloves garlic",
-        "Olive oil",
-        "Chili flakes",
-        "Parmesan",
-        "Salt"
+      "codename": "Pasta_Firewall",
+      "classification": "DOAR PENTRU AGENȚI SECREȚI",
+      "risk": "Emanarea de usturoi poate atrage atenția inamică sau diplomatică.",
+      "cookingTimeMinutes": 18,
+      "description": "Construiește un scut carbohidrat strategic pentru a susține operațiuni prelungite.",
+      "equipment": [
+        "200g paste",
+        "2 căței usturoi",
+        "Ulei de măsline",
+        "Fulgi de chili",
+        "Parmezan",
+        "Sare"
       ],
-      "time_to_destruct": "18 minutes",
-      "rankings": {
-        "S": "≤ 15 min",
-        "A": "≤ 20 min",
-        "B": "≤ 25 min",
-        "C": "≤ 30 min",
-        "D": "> 30 min"
-      },
-      "mission_steps": [
-        "Boiling Point Breach: Cook pasta until al dente.",
-        "Garlic Extraction Operation: Sauté garlic in olive oil.",
-        "Firewall Construction: Mix pasta with garlic oil and chili flakes.",
-        "Encryption Dusting: Finish with Parmesan and serve only to trusted operatives."
+      "steps": [
+        "Străpunge pragul de fierbere: gătește pastele până la al dente.",
+        "Operațiunea Usturoi: călește usturoiul în ulei de măsline.",
+        "Construcția zidului: unește pastele cu uleiul aromat și fulgii de chili.",
+        "Camuflaj final: pudrează cu parmezan și servește doar aliaților de încredere."
       ]
     },
     {
-      "id": "RM-660",
-      "title": "Operation Stealthy Chocolate Mug Cake",
-      "description": "A covert microwave dessert for immediate sugar-level restoration.",
-      "ingredients": [
-        "4 tbsp flour",
-        "3 tbsp sugar",
-        "2 tbsp cocoa powder",
-        "3 tbsp milk",
-        "2 tbsp melted butter",
-        "Pinch of baking powder",
-        "Chocolate chips (optional)"
+      "codename": "Stealth_Mugcake",
+      "classification": "DOAR PENTRU AGENȚI SECREȚI",
+      "risk": "Supraîncălzirea poate provoca detonarea încărcăturii din cană.",
+      "cookingTimeMinutes": 6,
+      "description": "O misiune dulce, cu explozie controlată, pregătită în câteva secunde pentru operațiuni nocturne.",
+      "equipment": [
+        "4 linguri făină",
+        "3 linguri zahăr",
+        "2 linguri cacao",
+        "3 linguri lapte",
+        "2 linguri unt topit",
+        "1 praf de copt",
+        "Fulgi de ciocolată (opțional)"
       ],
-      "time_to_destruct": "6 minutes",
-      "rankings": {
-        "S": "≤ 5 min",
-        "A": "≤ 7 min",
-        "B": "≤ 9 min",
-        "C": "≤ 12 min",
-        "D": "> 12 min"
-      },
-      "mission_steps": [
-        "Containment Protocol: Mix ingredients inside a mug.",
-        "Microwave Ignition: Heat until the cake rises to full operational readiness.",
-        "Thermal Signature Check: Ensure interior remains classified (moist).",
-        "Extraction: Consume before any hostile sensors detect you."
+      "steps": [
+        "Protocol de amestecare: combină ingredientele direct în cană.",
+        "Inițiere microonde: încălzește până când compoziția se ridică.",
+        "Verificare termică: asigură-te că interiorul rămâne moale și confidențial.",
+        "Extracție rapidă: consumă înainte ca senzorii inamici să capteze mirosul."
+      ]
+    },
+    {
+      "codename": "RISOTTO_NOIR",
+      "classification": "DOAR PENTRU AGENȚI SECREȚI — NIVEL OMEGA",
+      "risk": "Operațiune lungă și sensibilă. Neatenția duce la risotto cimentat.",
+      "cookingTimeMinutes": 42,
+      "description": "Una dintre cele mai delicate misiuni culinare. Obiectivul: un risotto atât de fin încât destabilizează moralul oricărui adversar.",
+      "equipment": [
+        "300g orez Arborio",
+        "1L supă fierbinte",
+        "1 ceapă mică",
+        "2 căței usturoi",
+        "200ml vin alb",
+        "50g unt",
+        "50g parmezan ras",
+        "Ulei de măsline",
+        "Sare și piper",
+        "Tigaie de operațiuni speciale"
+      ],
+      "steps": [
+        "Activează baza de comandă: încălzește supa la foc mic pentru alimentare constantă.",
+        "Infiltrează ceapa în tigaie cu puțin ulei până devine translucidă.",
+        "Adaugă usturoiul și lasă-l câteva secunde — informațiile lui sunt volatile.",
+        "Adaugă orezul Arborio și amestecă până devine ușor sticlos.",
+        "Deglazează zona cu vin alb și urmărește evaporarea completă.",
+        "Adaugă prima tranșă de supă fierbinte pentru inițierea operațiunii.",
+        "Amestecă fără oprire — consistența depinde de tine.",
+        "Adaugă treptat supă pe măsură ce lichidul este absorbit.",
+        "Monitorizează atent — orice pauză poate compromite textura.",
+        "Repetă procesul până când orezul este cremos și al dente.",
+        "Retrage de pe foc și adaugă untul până se topește uniform.",
+        "Încorporează parmezanul pentru blindaj final.",
+        "Condimentează strategic cu sare și piper.",
+        "Lasă preparatul să se odihnească 1 minut și servește imediat."
       ]
     }
   ]

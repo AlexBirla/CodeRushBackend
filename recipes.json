@@ -1,0 +1,133 @@
+[
+    {
+      "id": "XR-117",
+      "title": "Operation Midnight Omelette",
+      "description": "A covert breakfast infiltration mission using a fluffy, cheese-filled payload.",
+      "ingredients": [
+        "3 eggs",
+        "2 tbsp milk",
+        "Salt & pepper",
+        "Handful of shredded cheese",
+        "1 tbsp butter"
+      ],
+      "time_to_destruct": "7 minutes",
+      "rankings": {
+        "S": "≤ 6 min",
+        "A": "≤ 8 min",
+        "B": "≤ 10 min",
+        "C": "≤ 12 min",
+        "D": "> 12 min"
+      },
+      "mission_steps": [
+        "Infiltrate the Pan Zone: Melt butter quietly over medium heat.",
+        "Deploy Egg Payload: Whisk eggs, milk, salt, and pepper, then pour into pan.",
+        "Cheese Extraction Protocol: Add cheese and fold for secrecy.",
+        "Evacuation Maneuver: Slide omelette onto plate and vanish."
+      ]
+    },
+    {
+      "id": "KV-904",
+      "title": "Operation Frostbite Smoothie",
+      "description": "A frozen energy asset blended for agents requiring rapid nutritional extraction.",
+      "ingredients": [
+        "1 cup frozen berries",
+        "1 banana",
+        "1 cup yogurt or milk",
+        "1 tbsp honey",
+        "Chia seeds (optional)"
+      ],
+      "time_to_destruct": "4 minutes",
+      "rankings": {
+        "S": "≤ 3 min",
+        "A": "≤ 5 min",
+        "B": "≤ 7 min",
+        "C": "≤ 10 min",
+        "D": "> 10 min"
+      },
+      "mission_steps": [
+        "Asset Acquisition: Load all ingredients into the blender.",
+        "High-Speed Neutralization: Blend until no identifiable fragments remain.",
+        "Payload Deployment: Pour into container and consume swiftly."
+      ]
+    },
+    {
+      "id": "AL-552",
+      "title": "Operation Shadow Toast",
+      "description": "A rapid, silent ration ideal for agents operating under deep cover.",
+      "ingredients": [
+        "2 slices of bread",
+        "2 tbsp peanut butter",
+        "1 tbsp jam",
+        "Banana slices (optional)"
+      ],
+      "time_to_destruct": "3 minutes",
+      "rankings": {
+        "S": "≤ 2 min",
+        "A": "≤ 4 min",
+        "B": "≤ 6 min",
+        "C": "≤ 8 min",
+        "D": "> 8 min"
+      },
+      "mission_steps": [
+        "Heat Signature Manipulation: Toast bread with minimal noise.",
+        "Dual-Layer Encryption: Spread peanut butter, then jam.",
+        "Covert Assembly: Add bananas if needed and eat unnoticed."
+      ]
+    },
+    {
+      "id": "ZQ-788",
+      "title": "Operation Pasta Firewall",
+      "description": "Construct a defensive carb barrier for extended operational endurance.",
+      "ingredients": [
+        "200g pasta",
+        "2 cloves garlic",
+        "Olive oil",
+        "Chili flakes",
+        "Parmesan",
+        "Salt"
+      ],
+      "time_to_destruct": "18 minutes",
+      "rankings": {
+        "S": "≤ 15 min",
+        "A": "≤ 20 min",
+        "B": "≤ 25 min",
+        "C": "≤ 30 min",
+        "D": "> 30 min"
+      },
+      "mission_steps": [
+        "Boiling Point Breach: Cook pasta until al dente.",
+        "Garlic Extraction Operation: Sauté garlic in olive oil.",
+        "Firewall Construction: Mix pasta with garlic oil and chili flakes.",
+        "Encryption Dusting: Finish with Parmesan and serve only to trusted operatives."
+      ]
+    },
+    {
+      "id": "RM-660",
+      "title": "Operation Stealthy Chocolate Mug Cake",
+      "description": "A covert microwave dessert for immediate sugar-level restoration.",
+      "ingredients": [
+        "4 tbsp flour",
+        "3 tbsp sugar",
+        "2 tbsp cocoa powder",
+        "3 tbsp milk",
+        "2 tbsp melted butter",
+        "Pinch of baking powder",
+        "Chocolate chips (optional)"
+      ],
+      "time_to_destruct": "6 minutes",
+      "rankings": {
+        "S": "≤ 5 min",
+        "A": "≤ 7 min",
+        "B": "≤ 9 min",
+        "C": "≤ 12 min",
+        "D": "> 12 min"
+      },
+      "mission_steps": [
+        "Containment Protocol: Mix ingredients inside a mug.",
+        "Microwave Ignition: Heat until the cake rises to full operational readiness.",
+        "Thermal Signature Check: Ensure interior remains classified (moist).",
+        "Extraction: Consume before any hostile sensors detect you."
+      ]
+    }
+  ]
+  

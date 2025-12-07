@@ -1,6 +1,6 @@
 [
     {
-      "codename": "OMLETA_DE_MIEZUL_NOPTII",
+      "codename": "Midnight_Omlette",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Aromă puternică ce poate trăda poziția agentului.",
       "cookingTimeMinutes": 7,
@@ -21,7 +21,7 @@
       "blacklist": []
     },
     {
-      "codename": "SMOOTHIE_INGHETAT",
+      "codename": "Frozen_Smoothie",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Activarea blenderului poate alerta forțele ostile din proximitate.",
       "cookingTimeMinutes": 4,
@@ -41,7 +41,7 @@
       "blacklist": []
     },
     {
-      "codename": "TOAST_UMBRA",
+      "codename": "Shadow_Toast",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Mirosul de toast poate compromite operațiunea dacă ventilația este slabă.",
       "cookingTimeMinutes": 3,
@@ -60,7 +60,7 @@
       "blacklist": []
     },
     {
-      "codename": "ZIDUL_DE_PASTA",
+      "codename": "Pasta_Firewall",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Emanarea de usturoi poate atrage atenția inamică sau diplomatică.",
       "cookingTimeMinutes": 18,
@@ -82,7 +82,7 @@
       "blacklist": []
     },
     {
-      "codename": "PRAJITURA_IN_CANA_STEALTH",
+      "codename": "Stealthy_Mugcake",
       "classification": "DOAR PENTRU AGENȚI SECREȚI",
       "risk": "Supraîncălzirea poate provoca detonarea încărcăturii din cană.",
       "cookingTimeMinutes": 6,

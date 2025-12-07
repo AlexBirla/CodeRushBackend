@@ -18,6 +18,13 @@
         "Protocolul brânză: presară brânza și pliază omleta cu precizie.",
         "Evacuare fără urmă: glisează omleta în farfurie și retrage-te imediat."
       ],
+      "rankings": {
+        "S": "≤ 6 min",
+        "A": "≤ 8 min",
+        "B": "≤ 10 min",
+        "C": "≤ 12 min",
+        "D": "> 12 min"
+      },
       "blacklist": []
     },
     {
@@ -38,6 +45,13 @@
         "Neutralizare la viteză mare: mixează până nu mai rămân fragmente identificabile.",
         "Livrarea încărcăturii: toarnă în pahar și consumă în deplină discreție."
       ],
+      "rankings": {
+        "S": "≤ 3 min",
+        "A": "≤ 5 min",
+        "B": "≤ 7 min",
+        "C": "≤ 10 min",
+        "D": "> 10 min"
+      },
       "blacklist": []
     },
     {
@@ -57,6 +71,13 @@
         "Criptare în două straturi: întinde untul de arahide, apoi gemul.",
         "Asamblare sub acoperire: adaugă banană dacă este necesar și consumă fără martori."
       ],
+      "rankings": {
+        "S": "≤ 2 min",
+        "A": "≤ 4 min",
+        "B": "≤ 6 min",
+        "C": "≤ 8 min",
+        "D": "> 8 min"
+      },
       "blacklist": []
     },
     {
@@ -79,6 +100,13 @@
         "Construcția zidului: unește pastele cu uleiul aromat și fulgii de chili.",
         "Camuflaj final: pudrează cu parmezan și servește doar aliaților de încredere."
       ],
+      "rankings": {
+        "S": "≤ 15 min",
+        "A": "≤ 20 min",
+        "B": "≤ 25 min",
+        "C": "≤ 30 min",
+        "D": "> 30 min"
+      },
       "blacklist": []
     },
     {
@@ -102,6 +130,13 @@
         "Verificare termică: asigură-te că interiorul rămâne moale și confidențial.",
         "Extracție rapidă: consumă înainte ca senzorii inamici să capteze mirosul."
       ],
+      "rankings": {
+        "S": "≤ 5 min",
+        "A": "≤ 7 min",
+        "B": "≤ 9 min",
+        "C": "≤ 12 min",
+        "D": "> 12 min"
+      },
       "blacklist": []
     },
     {
@@ -138,6 +173,13 @@
         "Condimentează strategic cu sare și piper.",
         "Lasă preparatul să se odihnească 1 minut și servește imediat."
       ],
+      "rankings": {
+        "S": "≤ 40 min",
+        "A": "≤ 45 min",
+        "B": "≤ 50 min",
+        "C": "≤ 60 min",
+        "D": "> 60 min"
+      },
       "blacklist": []
     }
   ]

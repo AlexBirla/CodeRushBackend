@@ -100,6 +100,61 @@ app.get("/recipe_count", (req, res) => {
     });
   });
 
+
+// Route: return rank based on time and codename
+// Example: /get_rank?codename=RISOTTO_NOIR&time=47
+app.get("/get_rank", (req, res) => {
+    const codename = req.query.codename;
+    const time = parseFloat(req.query.time);
+  
+    if (!codename || isNaN(time)) {
+      return res.status(400).json({
+        error: "Trebuie să specifici ?codename=MISIUNE și ?time=MINUTE"
+      });
+    }
+  
+    // Caută rețeta după codename (case-insensitive)
+    const mission = recipes.find(
+      r => r.codename.toLowerCase() === codename.toLowerCase()
+    );
+  
+    if (!mission) {
+      return res.status(404).json({
+        error: `Nu există nicio misiune cu codename-ul '${codename}'.`
+      });
+    }
+  
+    if (!mission.rankings) {
+      return res.status(500).json({
+        error: "Această misiune nu are un sistem de rankings definit."
+      });
+    }
+  
+    const { rankings } = mission;
+  
+    // Funcție pentru a interpreta valori precum "≤ 10 min"
+    const parseLimit = (limitString) => {
+      const clean = limitString.replace(/[^\d]/g, ""); // păstrăm doar cifrele
+      return parseFloat(clean);
+    };
+  
+    let obtainedRank = "D"; // fallback
+  
+    // verificăm în ordinea corectă S -> A -> B -> C
+    if (rankings.S && time <= parseLimit(rankings.S)) obtainedRank = "S";
+    else if (rankings.A && time <= parseLimit(rankings.A)) obtainedRank = "A";
+    else if (rankings.B && time <= parseLimit(rankings.B)) obtainedRank = "B";
+    else if (rankings.C && time <= parseLimit(rankings.C)) obtainedRank = "C";
+    else obtainedRank = "D";
+  
+    return res.json({
+      codename: mission.codename,
+      time,
+      rank: obtainedRank
+    });
+  });
+  
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
